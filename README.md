@@ -21,12 +21,7 @@ Você pode baixar a ultima verção do jogo [aqui](https://github.com/lucaphill/
 
 
 #  🗃️Verções
-O TomadaVirus usa um sistema semantico pras cerções, ou seja, as versões são acompanhadas por a.b.c.d quando:
-
-* ````a```` updates grandes
-* ````b```` updates pequenos
-* ````c```` juntando ramificações
-* ````d```` correção de bugs
+Eu vou continuar atualizando o jogo, então de vez em quanto volte aqui pra ver se saiu uma versão nova (:
 
 # 🗓️ Recursos previstos:
 
