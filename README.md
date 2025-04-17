@@ -9,10 +9,10 @@ SUA MISSÃO É DERROTAR O TOMADAVÍRUS E RETOMAR A PAZ MUNDIAL!!!
 
 # 🏹Recursos:
 
--  GUI quase pronta
 -  Introdução/história
 -  Boss com 5 tipos de ataques diferentes e duas fases
 -  Ataque do player simples e estado de invulnerabilidade por 2s
+-  GUI quase pronta
 -  Muita diversão
 
 # 📥Dowload:
