@@ -33,4 +33,5 @@ Eu vou continuar atualizando o jogo, então de vez em quanto volte aqui pra ver 
 -  Melhorar a GUI
 -  Novos sprites 
 -  Novas animações
+-  Sons
 
