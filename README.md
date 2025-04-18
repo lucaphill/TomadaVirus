@@ -26,7 +26,7 @@ Eu vou continuar atualizando o jogo, então de vez em quanto volte aqui pra ver 
 # 🗓️ Recursos previstos:
 
 
--  Opção de dificuldade (fácil, normal,squeaq[impossível])
+-  Opção de dificuldade (fácil, normal,squeak[impossível])
 -  Mais ataques e fases para o Boss
 -  Opções de armas para o player
 -  Batalha mais dramática 
