@@ -13,7 +13,7 @@ SUA MISSÃO É DERROTAR O TOMADAVÍRUS E RETOMAR A PAZ MUNDIAL!!!
 -  Ataque do player simples e estado de invulnerabilidade por 2s
 -  Nível alto de dificuldade
 -  Muita diversão
--  Sem tutoriais, descubra os recursos sozinho 
+-  Sem tutoriais, descubra o que fazer sozinho 
 
 # 📥Dowload:
 Você pode baixar a ultima verção do jogo [aqui](https://github.com/lucaphill/TomadaVirus/releases)
