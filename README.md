@@ -1,5 +1,5 @@
 # 🕹️ Meu primeiro jogo 🎮
-(Vídeo sobre)[https://youtu.be/98VTcUg1-G0]
+[Vídeo sobre](https://youtu.be/98VTcUg1-G0)
 
 **Sabe quando a gente tenta colocar algo na tomada, mas nunca entra...
 Pesquisas recentes descobriram que isso é causado por um vírus muito perigoso, o TomadaVírus**
