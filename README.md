@@ -1,8 +1,10 @@
 🕹️ Meu primeiro jogo 🎮
 
-``` "Sabe quando a gente tenta colocar algo na tomada, mas nunca entra... ```
+```
+"Sabe quando a gente tenta colocar algo na tomada, mas nunca entra... 
 
 Pesquisas recentes descobriram que isso é causado por um vírus muito perigoso, o TomadaVírus"
+```
 
 SUA MISSÃO É DERROTAR O TOMADAVÍRUS E RETOMAR A PAZ MUNDIAL!!!
 
